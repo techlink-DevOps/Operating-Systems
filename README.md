@@ -20,7 +20,7 @@ operating system through a user interface such as a
 command language or a graphical user interface (GUI).
 
 ## An operating system performs these services for applications:
-``
+```sh
 1. In a multitasking operating system where multiple 
    programs can be running at the same time, the operating 
    system determines which applications should run in what
@@ -46,9 +46,10 @@ command language or a graphical user interface (GUI).
    operating system can manage how to divide the program 
    so that it runs on more than one processor at a time.
 
-``
+```
+
 ## Examples of computer operating systems.
-``
+
 1. Redhat – Very popular Linux operating system from 
             Redhat. 
 2. Microsoft Windows - PC and IBM compatible operating 
@@ -64,4 +65,4 @@ command language or a graphical user interface (GUI).
 5. Google Android - operating system used with Android 
    compatible phones.
 6. iOS - Operating system used with the Apple iPhone.
-``
+
