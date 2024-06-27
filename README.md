@@ -66,3 +66,5 @@ command language or a graphical user interface (GUI).
    compatible phones.
 6. iOS - Operating system used with the Apple iPhone.
 
+![Operating_system_placement](https://github.com/techlink-DevOps/Operating-Systems/assets/173838450/19dd566f-53d4-4b76-80f8-549793c1eaed)
+
